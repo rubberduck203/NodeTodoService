@@ -1,1 +1,7 @@
 node_modules/
+
+# Ignore the test database for the todo service
+api/test.json
+
+# Ignore the files in the data directory
+api/data/
